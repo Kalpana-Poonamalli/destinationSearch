@@ -1,0 +1,48 @@
+/* Write your CSS here */
+.ds-container {
+  background-color: white;
+  background-size: cover;
+  font-family: Roboto;
+  text-align: center;
+  padding: 60px;
+}
+.ds-card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  list-style-type: none;
+}
+.ds-inner-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.ds-heading {
+  color: #000000;
+}
+.search-container {
+  background-color: #f1f5f9;
+  width: 600px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  text-align: center;
+  border-radius: 10px;
+  border: none;
+  padding: 6px;
+}
+.search-input {
+  background-color: #f1f5f9;
+  border-style: none;
+  outline: none;
+  width: 600px;
+}
+.search-icon {
+  height: 20px;
+  width: 20px;
+  margin: 5px;
+  margin-top: 10px;
+}

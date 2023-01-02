@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.di-card-container {
+  padding: 20px;
+  text-align: left;
+  list-style-type: none;
+}
+.di-card-img {
+  height: 250px;
+  width: 300px;
+}
+.di-card-heading {
+  color: #252627;
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 500;
+}
